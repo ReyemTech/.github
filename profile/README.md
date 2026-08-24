@@ -12,6 +12,7 @@ Greater Toronto Area, remote across North America.
 
 ![PHP](https://img.shields.io/badge/-PHP%20%2F%20Laravel-2b2b2b?style=flat-square&logo=laravel&logoColor=FF2D20)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2b2b2b?style=flat-square&logo=typescript&logoColor=3178C6)
+![Astro](https://img.shields.io/badge/-Astro-2b2b2b?style=flat-square&logo=astro&logoColor=FF5D01)
 ![React](https://img.shields.io/badge/-React-2b2b2b?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/-React%20Native-2b2b2b?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)
