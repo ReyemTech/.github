@@ -1,61 +1,80 @@
-![](https://www.reyem.tech/images/logo-light-tagline.webp)
+![Reyem Technologies](https://www.reyem.tech/images/logo-light-tagline.webp)
 
-# 👋 Welcome to ReyemTech
+# Reyem Technologies
 
-**Reyem Technologies Inc.** is a technology consulting firm helping startups and small-to-medium-sized businesses build, scale, and modernize their digital products and operations. From Fractional CTO leadership to full-stack software development, we partner with ambitious teams to turn ideas into impactful solutions.
+**Strategy without execution is just a report.**
 
----
-
-## 🚀 What We Do
-
-- **💡 Fractional CTO Services**  
-  Strategic technology leadership for early-stage companies and growing teams.
-
-- **🛠 Custom Software Development**  
-  Full-stack web and mobile applications, tailored to your business needs.
-
-- **🔁 Digital Transformation**  
-  Modernizing operations through automation, integrations, and scalable cloud infrastructure.
-
-- **🧠 Technical Advisory**  
-  Guidance on architecture, hiring, dev processes, and vendor selection.
+Fractional CTO leadership for startups and small-to-medium businesses in the Greater Toronto Area and remote across North America.
 
 ---
 
-## 🧰 Our Tech Stack
+## About this account
 
-We build with modern, reliable, and scalable technologies:
-- **Backend**: Laravel, Ruby on Rails, Django
-- **Frontend**: React, Vue, Livewire, Filament
-- **Mobile**: React Native, Expo, Swift
-- **DevOps**: AWS (EKS, EB, RDS, CloudFront), Kubernetes, Docker, GitHub Actions, CI/CD
-- **Data**: PostgreSQL, MySQL, Redis, MinIO, Supabase
-- **Monitoring**: Sentry, Prometheus, Grafana
+Most client work is private. What is public here is **our own tooling** — infrastructure, integrations and developer utilities we built because we needed them, then released.
+
+That is the point. We are not showing you a portfolio of applications we would like to build for you. We are showing you what we run our own practice on.
 
 ---
 
-## 📂 Repositories
+## What we do
 
-Most of our work here is **private**, but we occasionally release tools, utilities, and open-source components that power our projects. Stay tuned for:
-- ⚙️ DevOps templates and infrastructure-as-code examples
-- 📦 Laravel and React Native packages
-- 📊 Internal tools and admin panels
+**Strategic thinking.** We start from business goals, not a requirements document. Most companies do not need more software. They need to know which three decisions actually matter this quarter.
 
----
+**Hands-on execution.** We build, hire, ship, and stay accountable for the outcome. No decks handed over at the end of a discovery phase.
 
-## 📫 Get in Touch
+**A fraction of the cost.** Senior technology leadership without full-time executive overhead.
 
-**📍 Location:** Vaughan, Ontario, Canada  
-**🌐 Website:** [https://reyem.tech](https://reyem.tech)  
-**📧 Email:** [contact@reyem.tech](mailto:contact@reyem.tech)  
+### Where we sit
 
-**🔗 Follow us:**
+| | What you get | What is missing |
+|---|---|---|
+| Development shop | Engineering capacity | Nobody accountable for whether it was the right thing to build |
+| Advisory-only fractional CTO | Strategic direction | No capacity to execute it |
+| **Reyem** | **Both, from the person accountable for the result** | — |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/reyemtech)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/reyemtech)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/reyemtech)
+We do write software — under CTO leadership, for teams that need capacity and direction at the same time and cannot yet justify a full-time CTO. It is a stop-gap we offer when it is asked for, not a service we pitch.
 
 ---
 
-> _"We help businesses make smarter technology decisions—faster."_  
-> — [Mario Meyer](https://www.github.com/mariomeyer), Founder @ ReyemTech
+## Engagements
+
+**Technology Health Check — $2,000, two weeks.** Nine dimensions scored, one number out of 100, and a written report. Architecture, delivery, risk and AI readiness assessed against what the business actually needs. **You keep the report whether or not you ever work with us again.**
+
+**Fractional CTO.** Ongoing technical leadership: architecture decisions, hiring, delivery process, vendor selection, board-level translation.
+
+**Technical due diligence.** Pre-deal review of a target's engineering. We did not build it, so we have no rewrite to defend.
+
+---
+
+## Selected open-source work
+
+| Repository | What it is |
+|---|---|
+| **[mcp-canada](https://github.com/reyemtech/mcp-canada)** | MCP server for Canadian government data — 266 bilingual tools across 9 federal, 7 provincial and 2 municipal open-data APIs |
+| [nimbus](https://github.com/reyemtech/nimbus) | Cloud-agnostic Pulumi infrastructure components |
+| [pulumi-rackspace-spot](https://github.com/reyemtech/pulumi-rackspace-spot) | Native Pulumi provider for Rackspace Spot |
+| [laravel-hubspot](https://github.com/reyemtech/laravel-hubspot) | Laravel package for HubSpot CRM — every object type |
+| [stint](https://github.com/reyemtech/stint) | Time tracker with CLI and macOS menu-bar app |
+
+Working languages: PHP/Laravel, TypeScript, Python, Rust, Go. Infrastructure on Kubernetes, Pulumi, AWS and Rackspace Spot. Postgres, Redis, MinIO.
+
+---
+
+## Not a fit for
+
+- Enterprises over ~500 people — the engagement model does not suit that scale
+- Teams looking to outsource delivery with no internal ownership
+- Anyone who wants a rebuild quoted before the problem is diagnosed
+
+---
+
+## Elsewhere
+
+| | |
+|---|---|
+| Company | [reyem.tech](https://reyem.tech) |
+| Mario Meyer, founder | [mariomeyer.ca](https://mariomeyer.ca) · [@mariomeyer](https://github.com/mariomeyer) |
+| LinkedIn | [linkedin.com/company/reyemtech](https://linkedin.com/company/reyemtech) |
+| Contact | [contact@reyem.tech](mailto:contact@reyem.tech) |
+
+Based in the Greater Toronto Area. Engagements run remote across North America.
