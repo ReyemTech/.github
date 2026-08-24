@@ -124,10 +124,10 @@ An assessment built on something you told us in an interview is not as solid as 
 
 ### Integrations and tools
 
-[**laravel-hubspot**](https://github.com/reyemtech/laravel-hubspot) — Laravel package for HubSpot CRM, every object type.
-[**stint**](https://github.com/reyemtech/stint) — time tracker with a CLI and a macOS menu-bar app.
-[**laravel-vcard**](https://github.com/reyemtech/laravel-vcard) — fluent builder for vCard files.
-[**odoo-ts**](https://github.com/reyemtech/odoo-ts) — Odoo API through TypeScript classes.
+- [**laravel-hubspot**](https://github.com/reyemtech/laravel-hubspot) — Laravel package for HubSpot CRM, every object type
+- [**stint**](https://github.com/reyemtech/stint) — time tracker with a CLI and a macOS menu-bar app
+- [**laravel-vcard**](https://github.com/reyemtech/laravel-vcard) — fluent builder for vCard files
+- [**odoo-ts**](https://github.com/reyemtech/odoo-ts) — Odoo API through TypeScript classes
 
 ---
 
