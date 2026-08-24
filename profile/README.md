@@ -66,17 +66,16 @@ We do write software — under CTO leadership, for teams that need capacity and 
 
 ## Open source
 
-### mcp-canada
+### AI and agents
 
-[**mcp-canada**](https://github.com/reyemtech/mcp-canada) — MCP server for Canadian government data. **266 bilingual tools across 18 open-data APIs**: 9 federal, 7 provincial, 2 municipal. Bank of Canada, Statistics Canada, weather, recalls, drug approvals, immigration, and the BC / Alberta / Saskatchewan / Manitoba / Quebec / Ontario portals.
+- [**mcp-canada**](https://github.com/reyemtech/mcp-canada) ![stars](https://img.shields.io/github/stars/reyemtech/mcp-canada?style=flat-square&color=2b2b2b&labelColor=2b2b2b) — MCP server for Canadian government data. **266 bilingual tools across 18 open-data APIs**: 9 federal, 7 provincial, 2 municipal. Bank of Canada, Statistics Canada, weather, recalls, drug approvals, immigration, and the BC / Alberta / Saskatchewan / Manitoba / Quebec / Ontario portals
 
 ### Build and ship
 
-[**sail**](https://github.com/reyemtech/sail) — a Laravel Sail fork extended into a full build-and-ship toolchain. Multi-arch Docker Bake images (amd64/arm64), generated Helm charts covering web/worker/scheduler with HPA, PDB, ingress, external secrets and migration jobs, push to seven registries (GHCR, Docker Hub, GitLab, Quay, Harbor, ECR, ACR), and one-command CI/CD pipeline generation. Laptop to Kubernetes.
-
-[**nimbus**](https://github.com/reyemtech/nimbus) — cloud-agnostic Pulumi infrastructure components.
-
-[**pulumi-rackspace-spot**](https://github.com/reyemtech/pulumi-rackspace-spot) — native Pulumi provider for Rackspace Spot.
+- [**sail**](https://github.com/reyemtech/sail) — a Laravel Sail fork extended into a full build-and-ship toolchain: multi-arch Docker Bake images (amd64/arm64), generated Helm charts covering web/worker/scheduler with HPA, PDB, ingress, external secrets and migration jobs, push to seven registries, and one-command CI/CD pipeline generation. Laptop to Kubernetes
+- [**nimbus**](https://github.com/reyemtech/nimbus) — cloud-agnostic Pulumi infrastructure components
+- [**pulumi-rackspace-spot**](https://github.com/reyemtech/pulumi-rackspace-spot) — native Pulumi provider for Rackspace Spot
+- [**stack-upgrade**](https://github.com/reyemtech/stack-upgrade) — scripted framework and dependency upgrades
 
 ### Integrations and tools
 
