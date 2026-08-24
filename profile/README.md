@@ -16,6 +16,7 @@ Greater Toronto Area, remote across North America.
 ![React Native](https://img.shields.io/badge/-React%20Native-2b2b2b?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)
 ![Rust](https://img.shields.io/badge/-Rust-2b2b2b?style=flat-square&logo=rust&logoColor=dea584)
+![Docker](https://img.shields.io/badge/-Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-2b2b2b?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![Terraform](https://img.shields.io/badge/-Terraform-2b2b2b?style=flat-square&logo=terraform&logoColor=7B42BC)
 ![Pulumi](https://img.shields.io/badge/-Pulumi-2b2b2b?style=flat-square&logo=pulumi&logoColor=F7BF2A)
