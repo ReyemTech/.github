@@ -54,55 +54,11 @@ We do write software — under CTO leadership, for teams that need capacity and 
 
 ---
 
-## The Technology Health Check
-
-**$2,000. Two weeks. One number out of 100, and a written report you keep whether or not you ever work with us again.**
-
-Nine dimensions, the same nine in the same order for every client. Nothing is skipped because it was inconvenient to look at.
-
-| | | |
-|---|---|---|
-| **R1** Strategy | **R4** Resilience | **R7** Security |
-| **R2** Architecture | **R5** Process | **R8** AI / Data |
-| **R3** Delivery | **R6** Access | **R9** Compliance |
-
-### How a dimension is scored
-
-Each dimension scores 1 to 5, set by **the most severe finding in it**. One Critical finding drops that dimension to 1 no matter how much else is healthy — the worst problem defines the dimension, because that is the one that will hurt you.
-
-| Score | Meaning |
-|---|---|
-| 5 | No material issues found |
-| 4 | A Low-severity finding |
-| 3 | A Medium-severity finding |
-| 2 | A High-severity finding |
-| 1 | A Critical finding |
-
-### The five bands
-
-| Band | Range |
-|---|---|
-| Strong | 80–100 |
-| Solid | 60–79 |
-| Developing | 40–59 |
-| At Risk | 20–39 |
-| Critical | Below 20 |
-
-### The report states what it is based on
-
-An assessment built on something you told us in an interview is not as solid as one built on a system we read ourselves, and the report never pretends otherwise. Every domain is labelled with the tier of evidence behind it, so you can see which parts rest on the thinnest ground.
-
-| Tier | Evidence |
-|---|---|
-| **1** | **Live read access** — we read the systems ourselves, with access you grant us |
-| **2** | **Document review** — the artifacts you supplied: diagrams, invoices, policies, logs |
-| **3** | **Self-reported** — only what you told us in interviews, with nothing to check it against |
-
----
-
-## Other engagements
+## What we're hired for
 
 **Fractional CTO.** Ongoing technical leadership: architecture decisions, hiring, delivery process, vendor selection, board-level translation.
+
+**Technology Health Check.** A two-week, fixed-fee assessment. Nine dimensions, one number out of 100, and a written report you keep whether or not you ever work with us again. Each dimension is scored by its *worst* finding rather than its average, and every domain is labelled with the tier of evidence behind it — so the report says how much of itself to trust. [Full methodology →](https://www.reyem.tech/service/technology-health-check)
 
 **Technical due diligence.** Pre-deal review of a target's engineering. We did not build it, so we have no rewrite to defend.
 
