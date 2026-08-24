@@ -12,11 +12,15 @@ Greater Toronto Area, remote across North America.
 
 ![PHP](https://img.shields.io/badge/-PHP%20%2F%20Laravel-2b2b2b?style=flat-square&logo=laravel&logoColor=FF2D20)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2b2b2b?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/-React-2b2b2b?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React%20Native-2b2b2b?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)
 ![Rust](https://img.shields.io/badge/-Rust-2b2b2b?style=flat-square&logo=rust&logoColor=dea584)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-2b2b2b?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Terraform](https://img.shields.io/badge/-Terraform-2b2b2b?style=flat-square&logo=terraform&logoColor=7B42BC)
 ![Pulumi](https://img.shields.io/badge/-Pulumi-2b2b2b?style=flat-square&logo=pulumi&logoColor=F7BF2A)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/-MySQL-2b2b2b?style=flat-square&logo=mysql&logoColor=4479A1)
 
 [![reyem.tech](https://img.shields.io/badge/reyem.tech-2b2b2b?style=flat-square&logo=google-chrome&logoColor=white)](https://reyem.tech)
 [![mariomeyer.ca](https://img.shields.io/badge/mariomeyer.ca-2b2b2b?style=flat-square&logo=aboutdotme&logoColor=white)](https://mariomeyer.ca)
